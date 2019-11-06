@@ -1,0 +1,11 @@
+C:\Users\rtobia\source\repos\Lab_8_final\Lab_8_final\obj\Debug\netcoreapp3.0\Lab_8_final.csprojAssemblyReference.cache
+C:\Users\rtobia\source\repos\Lab_8_final\Lab_8_final\obj\Debug\netcoreapp3.0\Lab_8_final.AssemblyInfoInputs.cache
+C:\Users\rtobia\source\repos\Lab_8_final\Lab_8_final\obj\Debug\netcoreapp3.0\Lab_8_final.AssemblyInfo.cs
+C:\Users\rtobia\source\repos\Lab_8_final\Lab_8_final\bin\Debug\netcoreapp3.0\Lab_8_final.exe
+C:\Users\rtobia\source\repos\Lab_8_final\Lab_8_final\bin\Debug\netcoreapp3.0\Lab_8_final.deps.json
+C:\Users\rtobia\source\repos\Lab_8_final\Lab_8_final\bin\Debug\netcoreapp3.0\Lab_8_final.runtimeconfig.json
+C:\Users\rtobia\source\repos\Lab_8_final\Lab_8_final\bin\Debug\netcoreapp3.0\Lab_8_final.runtimeconfig.dev.json
+C:\Users\rtobia\source\repos\Lab_8_final\Lab_8_final\bin\Debug\netcoreapp3.0\Lab_8_final.dll
+C:\Users\rtobia\source\repos\Lab_8_final\Lab_8_final\bin\Debug\netcoreapp3.0\Lab_8_final.pdb
+C:\Users\rtobia\source\repos\Lab_8_final\Lab_8_final\obj\Debug\netcoreapp3.0\Lab_8_final.dll
+C:\Users\rtobia\source\repos\Lab_8_final\Lab_8_final\obj\Debug\netcoreapp3.0\Lab_8_final.pdb
